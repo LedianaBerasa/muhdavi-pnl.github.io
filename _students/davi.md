@@ -1,9 +1,11 @@
 ---
 layout: student
-short_name: Davi
-name: Muhammad Davi
-nim: 20245730100XX
-class: TI-1X
-website: https://muhdavi-pnl.github.io
+short_name: Ledi
+name: Lediana Berasa
+nim: 2024573010034
+class: TI-1C
+website: https://ledianaberasa.github.io
 ---
-Nama saya Firdhila Ananda Syahputri, biasanya di panggil Firdhila. Saya lahir di Lhokseumawe pada tanggal 18 Mei 2006. Saya merupakan mahasiswa semester 2 jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika di Politeknik Negeri Lhokseumawe. 
+Deskripsi diri yang lengkap disini.......
+Perkenalkan Nama saya Lediana Beras, Saya berasal dari Subulussalam, sekarang belajar di Politeknik Negeri Lhokseumawe sebagai
+mahasiswa jurusan Teknologi Informasi dan Komputer prodi Teknik Informatika. saya lahir di Aceh Singkil, 10 Maret 2006, hobi memasak, Cita-cita saya menjadi seorang guru.
